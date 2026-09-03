@@ -1,0 +1,30 @@
+{
+  "name": "10 ÊM - BOLERO ĂN NHẬU",
+  "short_name": "10 ÊM",
+  "description": "Sổ hợp âm Bolero dùng trên tablet",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "fullscreen",
+    "standalone"
+  ],
+  "orientation": "any",
+  "background_color": "#f3f0e8",
+  "theme_color": "#287f78",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
